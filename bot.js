@@ -19,7 +19,7 @@ client.on('reconnecting', () => console.log('PROBOT credits miner is reconnectin
 
 function timerFunc() {
     client.on('message', msg => {
-        client.guilds.get(ServerID).channels.get(ChannelID).send("آنيكك آمك يخوو آلقحبةة ختفوووووووووو") 
+        client.guilds.get(ServerID).channels.get(ChannelID).send("** - Panorama 4 Ever ** :champagne_glass: :sparkles:") 
 
 
     });
