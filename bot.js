@@ -19,7 +19,7 @@ client.on('reconnecting', () => console.log('PROBOT credits miner is reconnectin
 
 function timerFunc() {
     client.on('message', msg => {
-        client.guilds.get(ServerID).channels.get(ChannelID).send("By : Xivooooooo") 
+        client.guilds.get(ServerID).channels.get(ChannelID).send("آنيكك آمك يخوو آلقحبةة ختفوووووووووو") 
 
 
     });
@@ -44,7 +44,7 @@ client.on('reconnecting', () => console.log('PROBOT credits miner is reconnectin
 
 function timerFunc() {
     client.on('message', msg => {
-        client.guilds.get(ServerID).channels.get(ChannelID).send("By : Xivooooooo") 
+        client.guilds.get(ServerID).channels.get(ChannelID).send("آنيكك آمكك بدون تفآل يخوآت القحبةةء") 
 
 
     });
