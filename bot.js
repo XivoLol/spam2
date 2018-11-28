@@ -29,12 +29,6 @@ var timer = setTimeout(timerFunc, 1000);
 
 client.login(process.env.BOT_TOKEN);
 
-var ServerID = "517326676409974795"; //اي دي السيرفر
-var ChannelID = "517326676409974797";// اي دي الروم
-
-
-const Discord = require('discord.js');
-const client = new Discord.Client();
 
 client.on('warn', console.warn);
 
